@@ -1,1 +1,1 @@
-# jaeger
+# jaeger - docker-compose - elasticsearch
